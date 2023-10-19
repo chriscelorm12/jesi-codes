@@ -1,0 +1,23 @@
+/* external css */
+h1 {
+  font-size: 30px;
+  color: rgb(139, 126, 52);
+  font-size: 15px;
+}
+
+li {
+  color: rgb(70, 70, 122);
+}
+
+.CryptoProjects {
+  color: rgb(89, 172, 89);
+}
+
+.heading-1 {
+  text-decoration: underline;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
